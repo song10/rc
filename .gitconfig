@@ -23,7 +23,7 @@
 	editor = vim
 	whitespace = tabwidth=8
 	pager = less -x2
-	gitproxy = git-proxy
+#	gitproxy = git-proxy
 
 [apply]
 	whitespace = strip

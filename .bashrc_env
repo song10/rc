@@ -1,5 +1,5 @@
 export EDITOR=vim
-export GIT_PROXY_COMMAND=git-proxy
+#export GIT_PROXY_COMMAND=git-proxy
 
 #export LANGUAGE="en"
 #export LANG="C"
